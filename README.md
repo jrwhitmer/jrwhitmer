@@ -11,7 +11,7 @@
 ### Thanks For Stopping By!
 
 
-[![Jacq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrwhitmer&show_icons=true&theme=dracula))](https://github.com/jrwhitmer/github-readme-stats)
+[![Jacq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrwhitmer&show_icons=true&theme=dracula)](https://github.com/jrwhitmer/github-readme-stats)
 
 <br>
 <p align="center">
