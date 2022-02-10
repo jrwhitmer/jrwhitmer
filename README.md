@@ -26,7 +26,7 @@
 <p align="center">
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-flat--square?logo=ruby&style=for-the-badge&color=black"/>
   <img alt="Ruby On Rails" src="https://img.shields.io/badge/RubyOnRails-flat--square?logo=ruby-on-rails&style=for-the-badge&color=black"/>
-  <img alt="PostgreSQL" src ="https://img.shields.io/badge/Postgres-flat--square?logo=postgres&style=for-the-badge&color=black"/>
+  <img alt="PostgreSQL" src ="https://img.shields.io/badge/Postgres-flat--square?logo=postgresql&style=for-the-badge&color=black"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-flat--square?logo=git&style=for-the-badge&color=black"/>
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-flat--square?logo=heroku&style=for-the-badge&color=black"/>
   <img alt="TravisCI" src="https://img.shields.io/badge/TravisCI-flat--square?logo=travisci&style=for-the-badge&color=black"/>
