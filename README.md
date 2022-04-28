@@ -2,9 +2,9 @@
 
 - Pronouns: they/them
 
-- I’m currently working on PewPewPew
+- I’m currently working with Netlify
 
-- I’m currently learning Python, Flask, React
+- I’m currently learning Golang, React
 
 - How to reach me: jacqwhitmer@gmail.com
 
